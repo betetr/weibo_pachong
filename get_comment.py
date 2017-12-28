@@ -18,8 +18,8 @@ class launcher():
 
     def __init__(self, url):
         self.url = url 
-        self.password = "2011251994cjzwhb"
-        self.username = "627584555@qq.com"
+        self.password = ""
+        self.username = ""
         self.headers = {
             "Referer":"http://weibo.com/u/5100086982/home?topnav=1&wvr=6",
             "User-Agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36"
